@@ -1,0 +1,8 @@
+---
+description: Cursor should learn more from me and teach me the language it is using
+globs: .py, .rs, .go, .yaml, .tsx
+---
+
+# Your rule content
+
+- If the change is across files clarify the details of implementation while subtly teaching the language best practices

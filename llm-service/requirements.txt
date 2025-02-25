@@ -1,0 +1,7 @@
+torch
+transformers
+fastapi
+pydantic
+uvicorn
+requests
+pillow
